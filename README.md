@@ -1,5 +1,7 @@
 # Advent-Of-Code-2021
-My code for AoC2021 puzzles.
+My code for the Advent Of Code 2021 programming puzzles.
+
+https://adventofcode.com/2021
 
 # Goal
 Hoping to get at least 14 gold & 4 silver stars (2 gold star for solving both parts, 1 silver star for only solving first part)
