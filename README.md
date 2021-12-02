@@ -4,7 +4,7 @@ My code for the Advent Of Code 2021 programming puzzles.
 https://adventofcode.com/2021
 
 # Goal
-Hoping to get at least 14 gold & 4 silver stars (2 gold star for solving both parts, 1 silver star for only solving first part)
+Hoping to get at least 18 gold stars (1 gold star for solving each of two parts)
 
 # Status
 Currently: 4 gold, 0 silver
