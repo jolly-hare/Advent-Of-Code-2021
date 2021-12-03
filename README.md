@@ -1,19 +1,20 @@
 # Advent-Of-Code-2021
 My code for the Advent Of Code 2021 programming puzzles.
 
-https://adventofcode.com/2021
+
+Advent Of Code (https://adventofcode.com/) is a registered trademark in the United States. All copyrights for puzzle content and input data are held by Eric Wastl, https://twitter.com/ericwastl and https://github.com/topaz.
 
 # Goal
-Hoping to get at least 18 gold stars (1 gold star for solving each of two parts)
+Hoping to get at least 18 stars (1 star for solving each of two parts) of the 50 stars possible.
 
 # Status
-Currently: 4 gold, 0 silver
+Currently: 4 stars
 
 ![Screenshot 2021-12-02 002756](https://user-images.githubusercontent.com/91928992/144363222-b8dcf52e-4d19-4232-a396-8853e3a98178.png)
 
 
 # Why
-Starting with a blank state because I need the practice. 
+Starting with a blank state because I need the practice. I'll try to post my daily solutions if I find the correct answer(s). In later days, I may spend some time cleaning up past solutions to more optimized or elegant alternate solutions.
 
 # todo
 build new_day script that creates a new local directory and root script file, pull down input data from: https://adventofcode.com/2021/day/X/input (where X = day #)
