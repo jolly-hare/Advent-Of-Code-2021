@@ -8,9 +8,9 @@ Advent Of Code (https://adventofcode.com/) is a registered trademark in the Unit
 Hoping to get at least 18 stars (1 star for solving each of two parts) of the 50 stars possible.
 
 # Status
-Currently: 10 stars
+Currently: 12 stars
 
-![Screenshot 2021-12-05 101952](https://user-images.githubusercontent.com/91928992/144752677-8e97c183-dbd6-4e47-bbcb-22faa05237d6.png)
+![Screenshot 2021-12-06 205454](https://user-images.githubusercontent.com/91928992/144951807-c6295d82-312f-40f1-a179-c31e017027bd.png)
 
 # Why
 Starting with a blank state because I need the practice. I'll try to post my daily solutions if I find the correct answer(s). In later days, I may spend some time cleaning up past solutions to more optimized or elegant alternate solutions.
